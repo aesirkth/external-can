@@ -1,11 +1,3 @@
-"Source:","C:\Users\rudol\Desktop\KTH_TEBSM\Other\AESIR\ECAN\external_can_PCB\ECAN.kicad_sch"
-"Date:","13.02.2024 21:45:40"
-"Tool:","Eeschema 7.0.1"
-"Generator:","C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
-"Component Count:","47"
-
-"Collated Components:"
-
 "Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP"
 "1","2","C1, C2","1 uF","Device:C","Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder","~",""
 "2","11","C3, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17","0.1 uF","Device:C","Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder","~",""
